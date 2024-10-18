@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_size">0dp</dimen>
+    <dimen name="min_size">2dp</dimen>
+    <dimen name="medium_size">8dp</dimen>
+    <dimen name="spacer_size">16dp</dimen>
+    <dimen name="horizontal_text_padding_size">20dp</dimen>
+    <dimen name="screen_icon_size">130dp</dimen>
+    <dimen name="grid_cell_size">150dp</dimen>
+    <dimen name="loading_image_size">75dp</dimen>
+    <dimen name="bottom_bar_size">110dp</dimen>
+    <dimen name="coat_of_arms_row_size">180dp</dimen>
+    <dimen name="details_flag_size">260dp</dimen>
+</resources>

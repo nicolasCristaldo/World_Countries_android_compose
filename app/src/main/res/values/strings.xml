@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">World countries</string>
+    <string name="search_countries">Search countries</string>
+    <string name="favorite_countries">Favorite countries</string>
+    <string name="country_details">Country details</string>
+    <string name="loading">Loading…</string>
+    <string name="no_countries_found">No countries found</string>
+    <string name="no_favorites_found">No favorites found</string>
+    <string name="add_favorites">Add a country to favorites</string>
+    <string name="search_any_country">Search any country in the world!</string>
+    <string name="search_placeholder">Search countries</string>
+    <string name="loading_failed">Loading failed</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="arrow_back">Arrow back</string>
+    <string name="add_favorite">Add favorite</string>
+    <string name="remove_favorite">Remove favorite</string>
+    <string name="capital">Capital</string>
+    <string name="population">Population</string>
+    <string name="continent">Continent</string>
+    <string name="region">Region</string>
+    <string name="area">Area</string>
+    <string name="independent">Independent</string>
+    <string name="un_member">UN member</string>
+    <string name="subregion">Subregion</string>
+    <string name="coat_of_arms">Coat of arms</string>
+</resources>
